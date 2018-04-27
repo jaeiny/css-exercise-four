@@ -33,7 +33,7 @@ body {
 .london {
   background-image: url(/images/london.png);
   background-size: cover;
-  background-position: left;
+  background-position: right;
 }
 
 .madrid {
@@ -45,7 +45,7 @@ body {
 .rome {
   background-image: url(/images/rome.jpg);
   background-size: cover;
-  background-position: left;
+  background-position: right;
 }
 
 @media (min-width: 600px) {
